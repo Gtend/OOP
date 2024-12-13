@@ -1,2 +1,2 @@
 CMakeFiles/OOP.dir/#3_multipleInheritance_STL/1_Ambiguity_Resolution.cpp.o: \
-  /Users/gtend/CLionProjects/OOP/\#3_multipleInheritance_STL/1_Ambiguity_Resolution.cpp
+  /Users/gtend/GitHub/OOP/\#3_multipleInheritance_STL/1_Ambiguity_Resolution.cpp

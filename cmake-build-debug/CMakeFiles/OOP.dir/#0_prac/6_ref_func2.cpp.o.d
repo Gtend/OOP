@@ -1,5 +1,5 @@
 CMakeFiles/OOP.dir/#0_prac/6_ref_func2.cpp.o: \
-  /Users/gtend/CLionProjects/OOP/\#0_prac/6_ref_func2.cpp \
+  /Users/gtend/GitHub/OOP/\#0_prac/6_ref_func2.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__assert \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__config \

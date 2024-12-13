@@ -1,2 +1,2 @@
 CMakeFiles/OOP.dir/#1_designPattern/8_Builder.cpp.o: \
-  /Users/gtend/CLionProjects/OOP/\#1_designPattern/8_Builder.cpp
+  /Users/gtend/GitHub/OOP/\#1_designPattern/8_Builder.cpp
